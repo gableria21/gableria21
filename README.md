@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gian Andrei Leria
+=========================================================================================================================================
 
-<!--
-**gableria21/gableria21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science Graduate | Aspiring Software Engineer 👨🏻‍💻
+-----------------------------------------------------------------
 
-Here are some ideas to get you started:
+Hi, I'm Gian Andrei B. Leria, a BS Computer Science Graduate from Mapúa University and aspiring full-stack engineer specializing in data science and developing solutions with Python, JavaScript, and PHP. I have worked as a Quality Assurance Intern during my internship. With a strong foundation in Scrum/Agile software framework, I am skilled at collaborating with cross-functional teams and ensuring the delivery of high-quality software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in MNL, PH
+* ✉️  You can contact me at [gableria21@gmail.com](mailto:gableria21@gmail.com)
+
+<a href="https://www.github.com/gableria21" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gableria21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
