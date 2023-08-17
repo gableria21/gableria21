@@ -6,6 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hi, I'm Gian Andrei B. Leria, a BS Computer Science Graduate from Mapúa University and aspiring full-stack engineer specializing in data science and developing solutions with Python, JavaScript, and PHP. I have worked as a Quality Assurance Intern during my internship. With a strong foundation in Scrum/Agile software framework, I am skilled at collaborating with cross-functional teams and ensuring the delivery of high-quality software products.
 
+During my free time, I take pleasure in acquiring fresh knowledge and experimenting with technology. I consistently need to prompt myself to stay motivated and strive for surpassing my own expectations.
+
 * 🌍  I'm based in MNL, PH
 * ✉️  You can contact me at [gableria21@gmail.com](mailto:gableria21@gmail.com)
 
